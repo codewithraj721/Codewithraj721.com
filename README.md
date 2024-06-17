@@ -15,7 +15,7 @@ You can see the live demo of the website by clicking [`here`](https://codewithra
 
 ## Screenshots
 
-![mobile.png](https://i.postimg.cc/7PRBK79C/site-ss.png)
+![mobile.png]()
 
 ## Customization
 
